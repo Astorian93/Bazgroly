@@ -1,2 +1,0 @@
-# Bazgroly
-Created with CodeSandbox
